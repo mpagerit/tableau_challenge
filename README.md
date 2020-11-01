@@ -3,7 +3,7 @@ Tableau visualization of CitiBike data
 
 Using Python Pandas and Tableau, create an interactive dashboard analyzing CitiBike useage statistics in New York City, 2016-October 2020.
 
-##Questions:
+## Questions:
 1. Gender breakdown of active participants over time, quarter by quarter over 5 years
   a. How effective has gender outreach been in increasing female ridership over the timespan?
 2. Top 10 Stations for starting a journey, q by q, over 5 years
