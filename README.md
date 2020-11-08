@@ -1,7 +1,10 @@
 # tableau_challenge
 Tableau visualization of CitiBike data
 
-Using Python Pandas and Tableau, create an interactive dashboard analyzing CitiBike useage statistics in New York City, 2016-October 2020.
+Using Python Pandas and Tableau, create an interactive dashboard analyzing Citi Bike useage statistics in Jersey City, 2016-October 2020.
+
+## Data Cleaning
+I used python pandas to import CSVs downloaded from https://www.citibikenyc.com/system-data and clean the data. I found/replaced NAN values, removed outliers, and cleaned column headings in order to merge each CSV into one dataframe.
 
 ## Analysis
 This dashboard includes the following dashboards and visualizations:
