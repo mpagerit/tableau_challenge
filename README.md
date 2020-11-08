@@ -10,5 +10,5 @@ This dashboard includes the following dashboards and visualizations:
   3. Analysis of Users by Gender
   4. Analysis of the effects of COVID-19 on program useage.
   
- ## Completed Tableau Dashboard
+ ## Completed Tableau Story
  https://public.tableau.com/profile/marianne3066#!/vizhome/CitiBikeProject_16042940596120/JerseyCityCitiBikeAnalysis?publish=yes
