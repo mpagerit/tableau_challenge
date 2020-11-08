@@ -11,4 +11,4 @@ This dashboard includes the following dashboards and visualizations:
   4. Analysis of the effects of COVID-19 on program useage.
   
  ## Completed Tableau Dashboard
- 
+ https://public.tableau.com/profile/marianne3066#!/vizhome/CitiBikeProject_16042940596120/JerseyCityCitiBikeAnalysis?publish=yes
