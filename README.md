@@ -1,5 +1,5 @@
 # tableau_challenge
-Tableau visualization of CitiBike data
+[Tableau visualization of CitiBike data]( https://public.tableau.com/profile/marianne3066#!/vizhome/CitiBikeProject_16042940596120/JerseyCityCitiBikeAnalysis?publish=yes)
 
 Using Python Pandas and Tableau, create an interactive dashboard analyzing Citi Bike useage statistics in Jersey City, 2016-October 2020.
 
